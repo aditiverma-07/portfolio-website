@@ -58,6 +58,7 @@ Full-Stack Java Developer with hands-on experience in building web applications 
 - AWS (EC2, S3)
 - Docker
 - Vercel
+- Render
 
 ### Tools
 - Git
